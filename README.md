@@ -40,7 +40,6 @@ cd ВАШ_РЕПОЗИТОРИЙ
 Bash
 
 pip install requests
-pip install colorama
 
 Руководство по использованию
 
